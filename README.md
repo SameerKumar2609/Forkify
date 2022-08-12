@@ -1,3 +1,4 @@
 # Forkify
 app
-https://forkify-sameerdce.netlify.app/
+https://forkify-v2.netlify.app/
+
